@@ -32,6 +32,48 @@ st.set_page_config(
     layout     = "wide",
 )
 
+# ── Login ─────────────────────────────────────────────────────────────────────
+def check_password():
+    """Muestra pantalla de login y verifica el password."""
+    if "authenticated" not in st.session_state:
+        st.session_state["authenticated"] = False
+
+    if st.session_state["authenticated"]:
+        return True
+
+    st.markdown("""
+    <div style='text-align:center; padding:60px 0 20px 0;'>
+        <span style='background:#166C52; color:white; padding:10px 28px;
+                     border-radius:12px; font-size:1.8rem; font-weight:300;
+                     font-family:Montserrat, Arial, sans-serif;'>
+            GENERADOR DE SESIONES — LORD BYRON
+        </span>
+    </div>
+    """, unsafe_allow_html=True)
+
+    st.markdown("<br>", unsafe_allow_html=True)
+
+    col1, col2, col3 = st.columns([1, 1, 1])
+    with col2:
+        st.markdown("### 🔐 Acceso")
+        password = st.text_input(
+            "Contraseña",
+            type     = "password",
+            placeholder = "Ingresa la contraseña..."
+        )
+        if st.button("Entrar", type="primary", use_container_width=True):
+            if password == os.getenv("APP_PASSWORD", "lordbyron2025"):
+                st.session_state["authenticated"] = True
+                st.rerun()
+            else:
+                st.error("❌ Contraseña incorrecta.")
+
+    return False
+
+if not check_password():
+    st.stop()
+
+
 st.markdown("""
 <style>
     body, .stApp { background-color: #ffffff !important; color: #1a1a1a !important; }
