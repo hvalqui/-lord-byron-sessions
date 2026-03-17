@@ -132,15 +132,9 @@ with col_titulo:
     """, unsafe_allow_html=True)
 with col_salir:
     st.markdown("<div style='padding-top:18px;'>", unsafe_allow_html=True)
-    if st.button("🚪 Salir", use_container_width=True, help="Cerrar la aplicación"):
-        st.success("✔ Sesión finalizada. Cerrando servidor...")
-        st.balloons()
-        import time, os, signal, sys
-        time.sleep(2)
-        try:
-            os.kill(os.getpid(), signal.SIGTERM)
-        except Exception:
-            sys.exit(0)
+    if st.button("🚪 Salir", use_container_width=True, help="Cerrar sesión"):
+        st.session_state["authenticated"] = False
+        st.rerun()
     st.markdown("</div>", unsafe_allow_html=True)
 
 # ── Tabs principales ──────────────────────────────────────────────────────────
