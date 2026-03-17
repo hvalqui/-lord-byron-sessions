@@ -1,0 +1,209 @@
+{
+  "8": {
+    "pdf": "grade8_unit1.pdf",
+    "unit_theme": "Rites of Passage",
+    "readings": {
+      "1": {
+        "title": "The Medicine Bag",
+        "author": "Virginia Driving Hawk Sneve",
+        "genre": "Short Story",
+        "pages": [15, 36],
+        "strategy": "Make Connections",
+        "vocabulary": ["wearily", "fatigue", "unseemly", "descendants", "stately"],
+        "days": {
+          "1": "Prepare to Read: Concept Vocabulary and Reading Strategy",
+          "2": "Read the full story and complete Comprehension Check",
+          "3": "Build Insight: First Thoughts, Summary and Analysis",
+          "4": "Analyze and Interpret: Close Read and Linear Plot Development",
+          "5": "Study Language and Craft: Vocabulary and Grammar"
+        }
+      },
+      "2": {
+        "title": "The Banana Tree",
+        "author": "James Berry",
+        "genre": "Adventure Story",
+        "pages": [37, 58],
+        "strategy": "Create Mental Images",
+        "vocabulary": ["merciles", "relentlessly", "rampaged", "swirling", "havoc"],
+        "days": {
+          "1": "Prepare to Read: Concept Vocabulary and Reading Strategy",
+          "2": "Read the full story and complete Comprehension Check",
+          "3": "Build Insight: First Thoughts, Summary and Analysis",
+          "4": "Analyze and Interpret: Close Read and Linear Plot Development",
+          "5": "Study Language and Craft: Vocabulary and Grammar"
+        }
+      },
+      "3": {
+        "title": "L'Amour, Maybe Not",
+        "author": "Shruti Ganguly",
+        "genre": "Personal Narrative",
+        "pages": [59, 90],
+        "strategy": "Make Predictions",
+        "vocabulary": [],
+        "days": {
+          "1": "Prepare to Read: Concept Vocabulary and Reading Strategy",
+          "2": "Read the full story and complete Comprehension Check",
+          "3": "Build Insight: First Thoughts, Summary and Analysis",
+          "4": "Analyze and Interpret: Close Read and Linear Plot Development",
+          "5": "Study Language and Craft: Vocabulary and Grammar"
+        }
+      },
+      "4": {
+        "title": "from La Princesa Mileidy Dominguez",
+        "author": "Rubén Degollado",
+        "genre": "Realistic Fiction",
+        "pages": [91, 116],
+        "strategy": "Make Predictions",
+        "vocabulary": [],
+        "days": {
+          "1": "Prepare to Read: Concept Vocabulary and Reading Strategy",
+          "2": "Read the full story and complete Comprehension Check",
+          "3": "Build Insight: First Thoughts, Summary and Analysis",
+          "4": "Analyze and Interpret: Close Read and Linear Plot Development",
+          "5": "Study Language and Craft: Vocabulary and Grammar"
+        }
+      },
+      "5": {
+        "title": "Embarrassed? Blame Your Brain",
+        "author": "Jennifer Connor-Smith",
+        "genre": "Informational Article",
+        "pages": [117, 132],
+        "strategy": "Generate Questions",
+        "vocabulary": [],
+        "days": {
+          "1": "Prepare to Read: Concept Vocabulary and Reading Strategy",
+          "2": "Read the full story and complete Comprehension Check",
+          "3": "Build Insight: First Thoughts, Summary and Analysis",
+          "4": "Analyze and Interpret: Close Read and Linear Plot Development",
+          "5": "Study Language and Craft: Vocabulary and Grammar"
+        }
+      },
+      "6": {
+        "title": "First-Day Fly",
+        "author": "Jason Reynolds",
+        "genre": "Short Story",
+        "pages": [133, 150],
+        "strategy": "Make Connections",
+        "vocabulary": ["protractor", "diameters", "hypotenuse"],
+        "days": {
+          "1": "Prepare to Read: Concept Vocabulary and Reading Strategy",
+          "2": "Read the full story and complete Comprehension Check",
+          "3": "Build Insight: First Thoughts, Summary and Analysis",
+          "4": "Analyze and Interpret: Close Read and Linear Plot Development",
+          "5": "Study Language and Craft: Vocabulary and Grammar"
+        }
+      }
+    }
+  },
+  "9": {
+    "pdf": "grade9_unit1.pdf",
+    "unit_theme": "Survival",
+    "readings": {
+      "1": {
+        "title": "Through the Tunnel",
+        "author": "Doris Lessing",
+        "genre": "Short Story",
+        "pages": [15, 34],
+        "strategy": "Create Mental Images",
+        "vocabulary": ["craving", "supplication", "beseeching", "pestered", "pleading", "insisted"],
+        "days": {
+          "1": "Prepare to Read: Concept Vocabulary and Reading Strategy",
+          "2": "Read the full story and complete Comprehension Check",
+          "3": "Build Insight: First Thoughts, Summary and Analysis",
+          "4": "Analyze and Interpret: Close Read and Linear Plot Development",
+          "5": "Study Language and Craft: Vocabulary, Word Study and Grammar"
+        }
+      },
+      "2": {
+        "title": "The Seventh Man",
+        "author": "Haruki Murakami",
+        "genre": "Short Story",
+        "pages": [35, 58],
+        "strategy": "Generate Questions",
+        "vocabulary": ["desperate", "entranced", "hallucination", "premonition", "profound", "meditative"],
+        "days": {
+          "1": "Prepare to Read: Concept Vocabulary and Reading Strategy",
+          "2": "Read the full story and complete Comprehension Check",
+          "3": "Build Insight: First Thoughts, Summary and Analysis",
+          "4": "Analyze and Interpret: Close Read and Linear Plot Development",
+          "5": "Study Language and Craft: Vocabulary, Word Study and Grammar"
+        }
+      },
+      "3": {
+        "title": "The Moral Logic of Survivor Guilt",
+        "author": "Nancy Sherman",
+        "genre": "Editorial",
+        "pages": [59, 88],
+        "strategy": "Make Predictions",
+        "vocabulary": [],
+        "days": {
+          "1": "Prepare to Read: Concept Vocabulary and Reading Strategy",
+          "2": "Read the full story and complete Comprehension Check",
+          "3": "Build Insight: First Thoughts, Summary and Analysis",
+          "4": "Analyze and Interpret: Close Read and Linear Plot Development",
+          "5": "Study Language and Craft: Vocabulary, Word Study and Grammar"
+        }
+      },
+      "4": {
+        "title": "The Voyage of the James Caird",
+        "author": "Caroline Alexander",
+        "genre": "Narrative Nonfiction",
+        "pages": [89, 118],
+        "strategy": "Annotate the Text",
+        "vocabulary": [],
+        "days": {
+          "1": "Prepare to Read: Concept Vocabulary and Reading Strategy",
+          "2": "Read the full story and complete Comprehension Check",
+          "3": "Build Insight: First Thoughts, Summary and Analysis",
+          "4": "Analyze and Interpret: Close Read and Linear Plot Development",
+          "5": "Study Language and Craft: Vocabulary, Word Study and Grammar"
+        }
+      },
+      "5": {
+        "title": "from Life of Pi",
+        "author": "Yann Martel",
+        "genre": "Novel Excerpt",
+        "pages": [119, 136],
+        "strategy": "Make Inferences",
+        "vocabulary": [],
+        "days": {
+          "1": "Prepare to Read: Concept Vocabulary and Reading Strategy",
+          "2": "Read the full story and complete Comprehension Check",
+          "3": "Build Insight: First Thoughts, Summary and Analysis",
+          "4": "Analyze and Interpret: Close Read and Linear Plot Development",
+          "5": "Study Language and Craft: Vocabulary, Word Study and Grammar"
+        }
+      },
+      "6": {
+        "title": "The Value of a Sherpa Life",
+        "author": "Grayson Schaffer",
+        "genre": "Argument",
+        "pages": [137, 148],
+        "strategy": "Make Connections",
+        "vocabulary": [],
+        "days": {
+          "1": "Prepare to Read: Concept Vocabulary and Reading Strategy",
+          "2": "Read the full story and complete Comprehension Check",
+          "3": "Build Insight: First Thoughts, Summary and Analysis",
+          "4": "Analyze and Interpret: Close Read and Linear Plot Development",
+          "5": "Study Language and Craft: Vocabulary, Word Study and Grammar"
+        }
+      },
+      "7": {
+        "title": "Poetry Collection 1",
+        "author": "Baca / Priest / Clifton",
+        "genre": "Poetry Collection",
+        "pages": [149, 168],
+        "strategy": "Paraphrase",
+        "vocabulary": [],
+        "days": {
+          "1": "Prepare to Read: Concept Vocabulary and Reading Strategy",
+          "2": "Read the full story and complete Comprehension Check",
+          "3": "Build Insight: First Thoughts, Summary and Analysis",
+          "4": "Analyze and Interpret: Close Read and Linear Plot Development",
+          "5": "Study Language and Craft: Vocabulary, Word Study and Grammar"
+        }
+      }
+    }
+  }
+}

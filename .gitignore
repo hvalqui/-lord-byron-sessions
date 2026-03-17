@@ -1,0 +1,17 @@
+# Variables de entorno — NUNCA subir al repositorio
+.env
+
+# PDFs — pueden tener derechos de autor
+docs/
+
+# Carpeta de outputs generados
+output/
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

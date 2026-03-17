@@ -1,0 +1,29 @@
+[
+  {
+    "fecha": "2026-03-15 23:22",
+    "session": "01",
+    "grade": "9",
+    "reading": "Through the Tunnel",
+    "day": "1",
+    "day_description": "Prepare to Read: Concept Vocabulary and Reading Strategy",
+    "archivo": "output/grade9/Session_01_Through_the_Tunnel.html"
+  },
+  {
+    "fecha": "2026-03-16 11:44",
+    "session": "10",
+    "grade": "9",
+    "reading": "Through the Tunnel",
+    "day": "1",
+    "day_description": "Prepare to Read: Concept Vocabulary and Reading Strategy",
+    "archivo": "/home/hvalqui/HValquiWorks/AI-DC_2025/06_AgentesIA/scr_ia/output/grade9/Session_10_Through_the_Tunnel.html"
+  },
+  {
+    "fecha": "2026-03-16 13:25",
+    "session": "12",
+    "grade": "9",
+    "reading": "Through the Tunnel",
+    "day": "1",
+    "day_description": "Prepare to Read: Concept Vocabulary and Reading Strategy",
+    "archivo": "output/grade9/Session_12_Through_the_Tunnel.html"
+  }
+]
